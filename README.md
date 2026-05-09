@@ -1,3 +1,5 @@
+video referencia: https://www.youtube.com/watch?v=bKUDL6UwUkc
+
 # BSV-Dynamic-NPC-Cleaner-Poly-QBOX-QBX-Sistema-profissional.
 BSV Dynamic NPC Cleaner Poly — QBOX/QBX  Sistema profissional de controle de NPCs para servidores FiveM QBOX/QBX.
 Crie zonas dinâmicas no mapa para remover:
